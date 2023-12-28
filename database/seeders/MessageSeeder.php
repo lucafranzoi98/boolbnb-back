@@ -24,7 +24,7 @@ class MessageSeeder extends Seeder
             $new_message->name = $message['name'];
             $new_message->message = $message['message'];
             $new_message->email = $message['email'];
-            $new_message->apartment_id = rand(1, 12);
+            $new_message->apartment_id = rand(1, 11);
             $new_message->subject = 'information about ' . $apartments[$new_message->apartment_id - 1]->title;
             $new_message->save();
         }
