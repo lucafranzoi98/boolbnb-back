@@ -228,26 +228,6 @@ return [
             "img" => "/e2e5bb39-d1b5-4055-ba63-05b33bef0f1d.png",
         ],
         [
-            "apartment_id" => 9,
-            'slug' => 'attico-ascarelli-flat-terrazzo-privato-metro-duomo',
-            "img" => "/1d014c26-77bb-43de-8518-400746c5fae3.png",
-        ],
-        [
-            "apartment_id" => 9,
-            'slug' => 'attico-ascarelli-flat-terrazzo-privato-metro-duomo',
-            "img" => "/54b93f82-8cf9-4709-80b5-b0d91728ab71.png",
-        ],
-        [
-            "apartment_id" => 9,
-            'slug' => 'attico-ascarelli-flat-terrazzo-privato-metro-duomo',
-            "img" => "/cd721933-fbb8-46a4-872b-92d8104c30f5.png",
-        ],
-        [
-            "apartment_id" => 9,
-            'slug' => 'attico-ascarelli-flat-terrazzo-privato-metro-duomo',
-            "img" => "/d828dd60-f7ab-483e-bf70-31114142ffbc.png",
-        ],
-        [
             "apartment_id" => 10,
             'slug' => 'intero-alloggio-appartamento',
             "img" => "/676ae1ca-4311-4c69-bd24-24e7cb8d4f0a.png",
